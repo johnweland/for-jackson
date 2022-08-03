@@ -1,0 +1,22 @@
+{
+    "short_name": "John Weland",
+    "name": "John Weland for Jackson",
+    "description": "John Weland for Jackson City Council",
+    "icons": [
+        {
+            "src": "favicon.ico",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "favicon.ico",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "/",
+    "background_color": "#212121",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#212121"
+}
