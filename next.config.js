@@ -3,8 +3,12 @@ const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
   images: {
-    domains: ['scontent-msp1-1.xx.fbcdn.net', 'imgs.search.brave.com'],
-  }
-}
+    domains: ["scontent-msp1-1.xx.fbcdn.net", "imgs.search.brave.com"],
+    dangerouslyAllowSVG: true,
+    contentSecurityPolicy: "default-src, 'self'; script-src, 'none'; sandbox;",
+    loader: "imgix",
+    path: "https://johnweland.me",
+  },
+};
 
-module.exports = nextConfig
+module.exports = nextConfig;
