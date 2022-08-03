@@ -2,6 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
+  basePath: '/for-jackson',
   images: {
     domains: ["scontent-msp1-1.xx.fbcdn.net", "imgs.search.brave.com"],
     dangerouslyAllowSVG: true,
