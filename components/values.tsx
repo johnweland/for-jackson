@@ -7,7 +7,7 @@ import {
 
 const valuesList = [
   {
-    name: "Family",
+    name: "Responsibility",
     href: "#",
     description: ``,
     icon: HeartIcon,
@@ -19,7 +19,7 @@ const valuesList = [
     icon: UserGroupIcon,
   },
   {
-    name: "Service",
+    name: "Issues",
     href: "#",
     description: `People often ask which side of the fence I am on. Historically I am usually just right of center. That being said I don't carry the monicer of Republican or Democrat. \n I believe things need to be evaluated on an issue by issue bases and not which club I want to be in`,
     icon: BriefcaseIcon,
