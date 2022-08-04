@@ -53,8 +53,7 @@ const activity = [
       name: "Jackson County Animal Protection Society (JCAPS)",
       href: "#",
     },
-    imageURL:
-      "https://scontent-msp1-1.xx.fbcdn.net/v/t39.30808-6/240651267_116271594097649_8581966275091961355_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=2V8bXIJKTicAX8AAvgn&_nc_ht=scontent-msp1-1.xx&oh=00_AT-CEU9Pg0i1ruaOH4zOk2ggvNQH6VlfYAYrjxVb5lSYMQ&oe=62CE5AB9",
+    imageURL: "https://www.facebook.com/photo/?fbid=137786061946202",
     comment: `I serve as the appointed President of JCAPS to oversee the day-to-day operations for the Board of Directors \n Since its inception in 2016, JCAPS has taken in, provided medical care for and rehomed 40 animals in Jackson County and counting.`,
     date: "2020 - Current",
   },
