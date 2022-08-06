@@ -7,7 +7,7 @@ import {
 
 const valuesList = [
   {
-    name: "Responsible",
+    name: "Responsibility",
     href: "#",
     description: ``,
     icon: HeartIcon,
