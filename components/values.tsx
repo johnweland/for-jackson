@@ -21,7 +21,7 @@ const valuesList = [
   {
     name: "Issues",
     href: "#",
-    description: `Historically I am usually just right of center but I don't carry the moniker of Republican or Democrat. \n I believe things need to be evaluated on an issue by issue bases and not which club I should to be in.`,
+    description: `I believe things need to be evaluated on an issue-by-issue bases.`,
     icon: BriefcaseIcon,
   },
 ];
