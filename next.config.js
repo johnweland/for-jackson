@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
-  basePath: "/for-jackson",
+  // basePath: "/for-jackson",
   images: {
     domains: [
       "scontent-msp1-1.xx.fbcdn.net",
@@ -11,8 +11,8 @@ const nextConfig = {
     ],
     dangerouslyAllowSVG: true,
     contentSecurityPolicy: "default-src, 'self'; script-src, 'none'; sandbox;",
-    loader: "imgix",
-    path: "",
+    // loader: "imgix",
+    // path: "",
   },
 };
 
