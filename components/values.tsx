@@ -15,7 +15,7 @@ const valuesList = [
   {
     name: "Community",
     href: "#",
-    description: `The role of government whether local or at the highest levels is to serve the people. To listen to those it represents and behave in such away so as to reflect their will. \n "The government which governs least, governs best." ~ Henry David Thoreau`,
+    description: `The role of government, whether local or at the highest levels, is to serve the people; to listen to those it represents, and behave in such a way as to reflect their will. \n "The government which governs least, governs best." ~ Henry David Thoreau`,
     icon: UserGroupIcon,
   },
   {
