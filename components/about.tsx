@@ -19,7 +19,7 @@ const AboutPartial = () => {
         I am a Solutions Architect and have worked in the IT field for the last
         decade. I am always looking to see where my skillsets can benefit us,
         even here in rural Minnesota. Prior to moving to Minnesota, I was an
-        instructor and member of the New Braunfles Community Emergency Response
+        instructor and member of the New Braunfels Community Emergency Response
         Team (CERT). That organization teaches disaster preparedness and
         actively helps to offset the burden placed on our first responders in
         the event of an emergency. I was also a founding member and volunteer

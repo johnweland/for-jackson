@@ -15,13 +15,13 @@ const valuesList = [
   {
     name: "Community",
     href: "#",
-    description: `The role of government whether local or at the highest levels is to serve the people, to listen to those it represents and behave in such away so as to reflect their will. \n "The government which governs least, governs best." ~ Henry David Thoreau`,
+    description: `The role of government whether local or at the highest levels is to serve the people. To listen to those it represents and behave in such away so as to reflect their will. \n "The government which governs least, governs best." ~ Henry David Thoreau`,
     icon: UserGroupIcon,
   },
   {
     name: "Issues",
     href: "#",
-    description: `Historically I am usually just right of center but I don't carry the monicer of Republican or Democrat. \n I believe things need to be evaluated on an issue by issue bases and not which club I should to be in.`,
+    description: `Historically I am usually just right of center but I don't carry the moniker of Republican or Democrat. \n I believe things need to be evaluated on an issue by issue bases and not which club I should to be in.`,
     icon: BriefcaseIcon,
   },
 ];
