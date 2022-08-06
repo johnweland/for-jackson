@@ -7,9 +7,9 @@ import {
 
 const valuesList = [
   {
-    name: "Responsibility",
+    name: "Accountability",
     href: "#",
-    description: ``,
+    description: `I believe that the city council should be held accountable for the resolution of issues that the citizens bring before it. \n There needs to be a genuine concern and respect by the council for the citizens of the city that we represent. This is something that I feel has been lacking, and something that I am committed to changing.`,
     icon: HeartIcon,
   },
   {
