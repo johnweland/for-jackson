@@ -21,7 +21,7 @@ const valuesList = [
   {
     name: "Issues",
     href: "#",
-    description: `I believe things need to be evaluated on an issue-by-issue bases.`,
+    description: `I believe things need to be evaluated on an issue-by-issue basis. \n Communities solve problems by working together on issues.`,
     icon: BriefcaseIcon,
   },
 ];
