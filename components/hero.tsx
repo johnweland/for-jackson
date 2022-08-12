@@ -146,7 +146,7 @@ const Hero = () => {
       <div className="relative lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2">
         <Image
           className="h-[30rem] w-full object-cover object-[0, 100px, 0, 0] sm:h-[35rem] md:h-[45rem] lg:w-full lg:h-[55rem]"
-          src="/images/welands.jpeg"
+          src="https://johnweland.me/for-jackson/images/welands.jpeg"
           alt=""
           priority
           quality={65}
