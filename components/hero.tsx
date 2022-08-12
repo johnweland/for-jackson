@@ -146,7 +146,7 @@ const Hero = () => {
       <div className="relative lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2">
         <Image
           className="h-[30rem] w-full object-cover object-[0, 100px, 0, 0] sm:h-[35rem] md:h-[45rem] lg:w-full lg:h-[55rem]"
-          src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/120314998_10164150856275627_7446608234314951746_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=0debeb&_nc_ohc=UU7An8eKPYwAX9d6tmK&_nc_ht=scontent-msp1-1.xx&oh=00_AT8X9QrZ7iQQV4r2_2k3kcNktGeJAwu9PIZ7NIHd44ye2Q&oe=62EE14CC"
+          src="/images/welands.jpeg"
           alt=""
           priority
           quality={65}

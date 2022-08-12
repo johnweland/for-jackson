@@ -53,8 +53,7 @@ const activity = [
       name: "Jackson County Animal Protection Society (JCAPS)",
       href: "#",
     },
-    imageURL:
-      "https://scontent-msp1-1.xx.fbcdn.net/v/t39.30808-6/240651267_116271594097649_8581966275091961355_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=8XM6DLAgo4EAX_RcOlh&_nc_ht=scontent-msp1-1.xx&oh=00_AT-yD6bJJNulsr8TtzqI9shy_8FzC5bNf7I2jWobmJsUwQ&oe=62EFF8F9",
+    imageURL: "/images/jcaps.jpeg",
     comment: `I currently serve as the appointed President of JCAPS to execute the day-to-day operations of the organization, with guidance from the Board of Directors. \n Since its inception in 2020, JCAPS has taken in, provided medical care for, and rehomed 40 animals (and counting) in Jackson County.`,
     date: "2020 - Current",
   },
@@ -69,8 +68,7 @@ const activity = [
     id: 6,
     type: "assignment",
     person: { name: "A Pet's Tale", href: "#" },
-    imageURL:
-      "https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/209202562_122432050044822_5113489918730997331_n.png?_nc_cat=103&ccb=1-7&_nc_sid=e3f864&_nc_ohc=WVNwuoMVqScAX-V-swF&_nc_ht=scontent-msp1-1.xx&oh=00_AT9nfThLZIM-6QMlIEvTOTSaBOG-4jOtD2DTL0nqEjXL6A&oe=62F17F73",
+    imageURL: "/images/apt.png",
     comment: `With the oversight of the Board of Directors, A Pet's Tale (a pet supply store) was conceived in order to provide a necessary service for the community, and to provide financial resources for JCAPS, thus allowing the non-profit to continue to cover spay/neuter surgeries, vaccinations, and other needs for the animals that JCAPS takes in.`,
     date: "August 2021",
   },
